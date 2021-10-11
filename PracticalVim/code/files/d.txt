@@ -1,0 +1,16 @@
+               DD               
+              D:::D              
+             D:::::D             
+            D:::::::D            
+           A:::::::::D           
+          A:::::A:::::A          
+         A:::::A A:::::A         
+        A:::::A   A:::::A        
+       A:::::A     A:::::A       
+      A:::::AAAAAAAAA:::::A      
+     A:::::::::::::::::::::A     
+    A:::::AAAAAAAAAAAAA:::::A    
+   A:::::A             A:::::A   
+  A:::::A               A:::::A  
+ A:::::A                 A:::::A 
+AAAAAAA                   AAAAAAA

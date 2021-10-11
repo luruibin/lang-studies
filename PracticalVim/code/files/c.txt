@@ -1,0 +1,16 @@
+               ACC               
+              C:::C              
+             C:::::C             
+            C:::::::C            
+           C:::::::::C           
+          C:::::C:::::C          
+         C:::::C C:::::A         
+        C:::::A   A:::::A        
+       A:::::A     A:::::A       
+      A:::::AAAAAAAAA:::::A      
+     A:::::::::::::::::::::C     
+    C:::::CCCCCCCCCAAAA:::::C    
+   C:::::C             C:::::C   
+  C:::::C               C:::::C  
+ C:::::C                 C:::::C 
+CCCAAAA                   AAAAAAA
